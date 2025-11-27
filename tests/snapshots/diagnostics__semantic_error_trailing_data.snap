@@ -1,7 +1,0 @@
----
-source: tests/diagnostics.rs
-expression: render_error(&err)
----
-[31mjson::token[0m
-
-  [31m×[0m unexpected character: 'e'
